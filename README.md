@@ -1,2 +1,2 @@
 # GMKinectrecordkit
-Record your Garry's Mod 
+Record your Garry's Mod KINECT tracking
