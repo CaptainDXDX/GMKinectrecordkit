@@ -1,0 +1,11 @@
+{
+  "data_dir": "E:\\SteamLibrary\\steamapps\\common\\GarrysMod\\garrysmod\\data",
+  "camera": 1,
+  "mirror": true,
+  "show_preview": false,
+  "flip_gaze_x": false,
+  "flip_gaze_y": false,
+  "flip_pitch": false,
+  "flip_yaw": false,
+  "flip_roll": false
+}
