@@ -5,4 +5,6 @@ Record your motion tracking data into Garry's Mod
 Big thanks to Jimmy for fixing the playback issue
 Fix not included yet. 
 
+-----------------------------------
+
 DO NOT SHARE THIS REPOSITORY!!!!!!
